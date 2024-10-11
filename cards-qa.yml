@@ -1,7 +1,9 @@
 build:
   version: "4.5.260"
+
 server:
-  port: 9550
+  port: 8510
+
 cards-contact-info:
   message: "Welcome to Bank related QA APIs ajsdjlfaskldnfkjsdilkmsld"
   contactDetails:
@@ -10,3 +12,9 @@ cards-contact-info:
   onCallSupport:
     - (310) 875-4367
     - (201) 236-1267
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

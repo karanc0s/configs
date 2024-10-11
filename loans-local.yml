@@ -1,6 +1,9 @@
 build:
   version: "5.3.33"
 
+server:
+  port: 8520
+
 loans-contact-info:
   message: "Welcome to Loans related Local deveopment APIs "
   contactDetails:
@@ -9,3 +12,9 @@ loans-contact-info:
   onCallSupport:
     - (310) 875-4367
     - (201) 236-1267
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

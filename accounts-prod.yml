@@ -1,6 +1,9 @@
 build:
   version: "6.2.0"
 
+server:
+  port: 8530
+  
 accounts-contact-info:
   message: "Welcome to accounts related Production APIs "
   contactDetails:
@@ -9,3 +12,9 @@ accounts-contact-info:
   onCallSupport:
     - (310) 875-4367
     - (201) 236-1267
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
