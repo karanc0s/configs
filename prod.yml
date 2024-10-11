@@ -1,0 +1,11 @@
+build:
+  version: "4.5.0"
+
+cards:
+  message: "Welcome to Bank cards related Production APIs "
+  contactDetails:
+    name: "luke gallows - Product owner"
+    email: "luke@bank.com"
+  onCallSupport:
+    - (310) 875-4367
+    - (201) 236-1267
