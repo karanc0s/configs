@@ -1,6 +1,7 @@
 build:
   version: "4.5.260"
-
+server:
+  port: 9550
 info:
   message: "Welcome to Bank related QA APIs "
   contactDetails:
