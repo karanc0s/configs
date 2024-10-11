@@ -1,0 +1,11 @@
+build:
+  version: "5.3.11"
+
+loans-contact-info:
+  message: "Welcome to loans related QA APIs "
+  contactDetails:
+    name: "Ivan Turgnav - QA Lead"
+    email: "iturgnav@bank.com"
+  onCallSupport:
+    - (310) 875-4367
+    - (201) 236-1267

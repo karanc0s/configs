@@ -1,0 +1,11 @@
+build:
+  version: "5.3.33"
+
+loans-contact-info:
+  message: "Welcome to Loans related Local deveopment APIs "
+  contactDetails:
+    name: "Dragos Lech - Developer"
+    email: "dragos@eazybank.com"
+  onCallSupport:
+    - (310) 875-4367
+    - (201) 236-1267

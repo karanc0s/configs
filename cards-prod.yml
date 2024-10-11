@@ -1,7 +1,7 @@
 build:
   version: "4.5.0"
 
-cards:
+cards-contact-cards:
   message: "Welcome to Bank cards related Production APIs "
   contactDetails:
     name: "luke gallows - Product owner"

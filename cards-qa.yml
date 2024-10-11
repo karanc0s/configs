@@ -2,7 +2,7 @@ build:
   version: "4.5.260"
 server:
   port: 9550
-info:
+cards-contact-info:
   message: "Welcome to Bank related QA APIs ajsdjlfaskldnfkjsdilkmsld"
   contactDetails:
     name: "Cherryl Pankaj - QA Lead"
