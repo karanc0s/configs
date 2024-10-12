@@ -5,7 +5,7 @@ server:
   port: 8530
 
 accounts-contact-info:
-  message: "Welcome to accounts related QA APIs "
+  message: "Welcome to accounts related QA APIs .. acc changes added in QA Testing env"
   contactDetails:
     name: "Cherryl Pankaj - QA Lead"
     email: "cherryl@bank.com"

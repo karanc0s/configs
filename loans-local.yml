@@ -5,7 +5,7 @@ server:
   port: 8520
 
 loans-contact-info:
-  message: "Welcome to Loans related Local deveopment APIs "
+  message: "Welcome to Loans related Local deveopment APIs .. Changes added in Local Development"
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@eazybank.com"

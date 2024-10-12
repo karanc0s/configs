@@ -5,7 +5,7 @@ server:
   port: 8520
 
 loans-contact-info:
-  message: "Welcome to loans related QA APIs "
+  message: "Welcome to loans related QA APIs .. Change added in Quality Analysis and testing"
   contactDetails:
     name: "Ivan Turgnav - QA Lead"
     email: "iturgnav@bank.com"

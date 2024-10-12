@@ -5,7 +5,7 @@ server:
   port: 8520
   
 loans-contact-info:
-  message: "Welcome to loans related production APIs "
+  message: "Welcome to loans related production APIs .. Change added in Production"
   contactDetails:
     name: "Ivan ilyaich - Product Owner"
     email: "ilyaich@bank.com"
