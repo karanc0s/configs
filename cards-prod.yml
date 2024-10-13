@@ -1,8 +1,8 @@
 build:
   version: "4.5.0"
 
-server:
-  port: 8510
+# server:
+#   port: 8510
 
 cards-contact-cards:
   message: "Welcome to Bank cards related Production APIs .. changes added in production env"

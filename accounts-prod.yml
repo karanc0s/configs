@@ -1,8 +1,8 @@
 build:
   version: "6.2.0"
 
-server:
-  port: 8530
+# server:
+#   port: 8530
   
 accounts-contact-info:
   message: "Welcome to accounts related Production APIs .. changes added in Production ENV"

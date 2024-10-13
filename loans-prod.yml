@@ -1,8 +1,8 @@
 build:
   version: "5.2.0"
 
-server:
-  port: 8520
+# server:
+#   port: 8520
   
 loans-contact-info:
   message: "Welcome to loans related production APIs .. Change added in Production"
