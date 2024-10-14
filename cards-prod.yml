@@ -5,7 +5,7 @@ build:
 #   port: 8510
 
 cards-contact-cards:
-  message: "Welcome to Bank cards related Production APIs .. changes added in production env"
+  message: "Welcome to Bank cards related Production APIs .. changes in production env"
   contactDetails:
     name: "luke gallows - Product owner"
     email: "luke@bank.com"

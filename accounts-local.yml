@@ -5,7 +5,7 @@ build:
 #   port: 8530
   
 accounts-contact-info:
-  message: "Welcome to accounts related Local deveopment APIs .. changes added un local DEVELOPMENT ENV"
+  message: "Welcome to accounts related Local deveopment APIs .. changes un local DEVELOPMENT ENV"
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@eazybank.com"

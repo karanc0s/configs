@@ -5,7 +5,7 @@ build:
 #   port: 8510
 
 cards-contact-info:
-  message: "Welcome to Cards related QA APIs .. changes added in QA testing"
+  message: "Welcome to Cards related QA APIs .. changes in QA testing"
   contactDetails:
     name: "Cherryl Pankaj - QA Lead"
     email: "cherryl@eazybank.com"
